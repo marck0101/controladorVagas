@@ -10,3 +10,10 @@ A ideia primordial é que que o estacionamento vai listar vagas disponíveis e n
  - Quais as vagas mais usadas
  - Quanto tempo as vagas ficam ocupadas.
  - Quais dias tem maior fluxo. 
+
+
+#### Dependencias do Python:
+
+
+#### Depenências react-native:
+[Responsivo-linechart](https://github.com/xanderdeseyn/react-native-responsive-linechart)
