@@ -1,5 +1,5 @@
 # CONTROLADOR DE VAGAS
-----------------------
+
 O projeto integra o Python com MYSQL e react-native.
 
 A ideia primordial é que que o estacionamento vai listar vagas disponíveis e não disponíveis em tempo real.
